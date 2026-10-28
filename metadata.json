@@ -1,0 +1,6 @@
+{
+  "name": "FAST HOME SERVICE",
+  "description": "Fast Home Service app for customer bookings, instant business owner notifications (7254894909), and secure admin management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
